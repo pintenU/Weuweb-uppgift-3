@@ -1,0 +1,25 @@
+.column-style{
+    display:flex;
+    flex-direction: column;
+}
+
+.column-style{
+    font-style:italic;
+    
+}
+
+
+.Bicep{ 
+
+    width:2rem;
+
+}
+
+img{
+
+    max-width:100%;
+
+    font-family:sans-serif;
+
+}
+
